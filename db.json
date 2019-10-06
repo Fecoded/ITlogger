@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Changed Network Card 007",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-10-06T20:13:39.890Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed Hard Drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-10-06T21:04:12.863Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-10-06T20:14:49.433Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id": "2",
+      "firstname": "Sam",
+      "lastname": "Smith"
+    },
+    {
+      "id": "3",
+      "firstname": "Sara",
+      "lastname": "Wilson"
+    }
+  ]
+}
